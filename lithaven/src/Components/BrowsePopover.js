@@ -54,4 +54,5 @@ const BrowsePopover = ({ showPopOver, setShowPopOver, anchorEl, setAnchorEl }) =
     );
 }
 
+
 export default BrowsePopover;
